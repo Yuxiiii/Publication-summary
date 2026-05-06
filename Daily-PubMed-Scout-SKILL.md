@@ -20,8 +20,8 @@ This is an advanced medical literature monitoring workflow designed for Hermes. 
 
 ### Step 2: Scoring Logic
 - **Journal Whitelist:**
-  - **Tier 0 (Top-tier):** *The New England Journal of Medicine (NEJM), The Lancet, JAMA, BMJ, Nature Medicine, Nature, Science, Cell.*
-  - **Tier 1 (Field Top-tier):** *Journal of Clinical Oncology (JCO), Annals of Oncology, The Lancet Oncology, Circulation, European Heart Journal (EHJ), Gastroenterology, Hepatology.*
+  - **Tier 0 (Top-tier):** *Nature, Science, Cell, Nature Neusoscience, Cell Stem Cell, Nature Immunology, Immunity, Science Immunology.*
+  - **Tier 1 (Field Top-tier):** *Nature Communication, Science Advances, Neuron, Developmental Cell.*
 - **Scoring Rules:**
   - If `Journal` matches Tier 0, mark as `🔥 High Impact`.
   - If `Journal` matches Tier 1, mark as `🌟 Essential Reading`.
