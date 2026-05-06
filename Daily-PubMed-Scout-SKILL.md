@@ -36,6 +36,7 @@ Generate the briefing strictly using the following Markdown format:
 ### 🔥 Focus (High Impact)
 *(List Tier 0 and Tier 1 papers here)*
 - **[{Index}] {Title_Original}**
+  - **Author:** *{Author Name, which group}*
   - **Journal:** *{Journal Name}*
   - **Core Takeaway:** {Deeply compress the Abstract, summarizing the core clinical conclusions or mechanistic discoveries in 1-2 concise sentences}
 
